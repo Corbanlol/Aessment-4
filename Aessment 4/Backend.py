@@ -1,5 +1,4 @@
 import pyodbc 
-import pyodbc
 
 
 def show_entries():
